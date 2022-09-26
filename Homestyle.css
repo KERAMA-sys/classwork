@@ -1,0 +1,18 @@
+h1,h2,h3,h4,h5,h6 {color: black;
+  font-family: "Century Gothic";
+  font-size: 30px;
+  text-align: center;
+
+}
+p{
+  color: black;
+  font-family: "Times New Roman";
+  font-size: 25px;
+  text-align: justify-all;
+
+}
+body{
+  background-image: url("images/enhanced-buzz-1492-1379411828-15.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}

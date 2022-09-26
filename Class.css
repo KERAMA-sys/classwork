@@ -1,0 +1,17 @@
+.fruits{
+  background-color: teal;
+  padding: 20px ;
+  color: white;
+  text-align: center;
+  border: 2px solid darkred;
+  margin: 20px;
+}
+
+.cars{
+  background-color: wheat;
+  padding: 15px;
+  color: rebeccapurple;
+  text-align: center;
+  border: 5px dashed saddlebrown;
+  margin: 20px;
+}
